@@ -13,7 +13,7 @@
 
 ## 📬 SNS & Email
 ___
-<a href="https://www.linkedin.com/in/wonyonghwang/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-01579b?style=for-the-   badge&logo=Linkedin&logoColor=#0A66C2"/></a> &nbsp;
+<a href="https://github.com/itsowavy/itsowavy/blob/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf" target="_blank"><img src="https://img.shields.io/badge/Linkedin-01579b?style=for-the-   badge&logo=Linkedin&logoColor=#0A66C2"/></a> &nbsp;
 <a href="https://www.instagram.com/wonyongpic" target="_blank"><img src="https://img.shields.io/badge/Instagram-9C27B0?style=for-the-   badge&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:kakaohwy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-   badge&logo=Gmail&logoColor=white"/></a> &nbsp;
 
