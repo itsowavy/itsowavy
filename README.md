@@ -1,4 +1,4 @@
-# ITSOWAVY
+# Seong Seunghun
 
 ## Resume
 <a href="https://drive.google.com/file/d/1uG6mEUc0EIxl5C9QDtkAxb_sjWDX3jP7/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-PDF-red?style=for-the-badge"/></a> &nbsp;
