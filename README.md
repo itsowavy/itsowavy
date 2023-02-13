@@ -1,6 +1,6 @@
 # Seong Seunghun
 
-## Resume
+## 이력서
 <a href="https://drive.google.com/file/d/1uG6mEUc0EIxl5C9QDtkAxb_sjWDX3jP7/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-PDF-red?style=for-the-badge"/></a> &nbsp;
 <br></br>
 
@@ -9,9 +9,11 @@
 <br></br>
 
 ## Email
-___
-
 <a href="mailto:itsowavys@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp;
+
+## Project
+<a href="https://echogreenseoul.site" target="_blank"><img src="https://img.shields.io/badge/%EC%97%90%EC%BD%94%EA%B7%B8%EB%A6%B0%EC%84%9C%EC%9A%B8-green?style=for-the-badge"/></a> &nbsp;
+<a href="https://github.com/codestates-seb/seb41_main_027/tree/dev" target="_blank"><img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github"/></a> &nbsp;
 
 <!--
 **itsowavy/itsowavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
