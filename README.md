@@ -12,7 +12,7 @@
 <a href="mailto:itsowavys@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp;
 
 ## Project
-<a href="https://echogreenseoul.site" target="_blank"><img src="https://img.shields.io/badge/%EC%97%90%EC%BD%94%EA%B7%B8%EB%A6%B0%EC%84%9C%EC%9A%B8-green?style=for-the-badge"/></a> &nbsp;
+<a href="https://echogreenseoul.site" target="_blank"><img src="https://img.shields.io/badge/%EB%B0%B0%ED%8F%AC%EB%A7%81%ED%81%AC-green?style=for-the-badge"/></a> &nbsp;
 <a href="https://github.com/codestates-seb/seb41_main_027/tree/dev" target="_blank"><img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github"/></a> &nbsp;
 
 <!--
