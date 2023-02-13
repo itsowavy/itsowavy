@@ -7,7 +7,7 @@
 <br></br>
 
 ## 👨🏻‍💻 My Tech Blog
-<a href="https://https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge"/></a> &nbsp;
+<a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge"/></a> &nbsp;
 
 <br></br>
 
