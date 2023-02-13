@@ -13,7 +13,7 @@
 
 ## Project
 ### 에코그린서울: 친환경 관련 장소 공유 플랫폼
-<a href="https://echogreenseoul.site" target="_blank"><img src="https://img.shields.io/badge/%EB%B0%B0%ED%8F%AC%EB%A7%81%ED%81%AC-5FCF80?style=for-the-badge"/></a> &nbsp;
+<a href="https://echogreenseoul.site" target="_blank"><img src="https://img.shields.io/badge/%EB%B0%B0%ED%8F%AC%EB%A7%81%ED%81%AC-2F8D46?style=for-the-badge"/></a> &nbsp;
 <a href="https://github.com/codestates-seb/seb41_main_027/tree/dev" target="_blank"><img src="https://img.shields.io/badge/repository-181717?style=for-the-badge&logo=github"/></a> &nbsp;
 
 <!--
