@@ -4,11 +4,11 @@
 <a href="https://drive.google.com/file/d/1uG6mEUc0EIxl5C9QDtkAxb_sjWDX3jP7/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-PDF-red?style=for-the-badge"/></a> &nbsp;
 <br></br>
 
-##Blog
+## Blog
 <a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge"/></a> &nbsp;
 <br></br>
 
-## 📬 SNS & Email
+## Email
 ___
 
 <a href="mailto:itsowavys@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp;
