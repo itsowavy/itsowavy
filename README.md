@@ -1,7 +1,7 @@
 # Seong Seunghun
 
 ## 이력서
-<a href="https://drive.google.com/file/d/1uG6mEUc0EIxl5C9QDtkAxb_sjWDX3jP7/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/-google_drive-red?style=for-the-badge&logo=googledrive&logoColor=white"/></a> &nbsp;
+<a href="https://itsowavy.oopy.io/resume" target="_blank"><img src="https://img.shields.io/badge/-google_drive-red?style=for-the-badge&logo=googledrive&logoColor=white"/></a> &nbsp;
 <br></br>
 
 ## Blog
