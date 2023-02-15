@@ -5,7 +5,7 @@
 <br></br>
 
 ## Blog
-<a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge"/></a> &nbsp;
+<a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge&logo=https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6da786bd-dd93-4c9a-9ae3-315c20657eb7%2Foopy-symbol.png&blockId=5af9e7d7-1dc2-4b5d-a3ee-ba1d5ff67b65&width=256"/></a> &nbsp;
 <br></br>
 
 ## Email
