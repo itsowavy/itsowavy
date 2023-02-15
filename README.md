@@ -1,7 +1,7 @@
 # Seong Seunghun
 
 ## 이력서
-<a href="https://itsowavy.oopy.io/resume" target="_blank"><img src="https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp;
+<a href="https://itsowavy.oopy.io/resume" target="_blank"><img src="https://img.shields.io/badge/-resume-grey?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp;
 <br></br>
 
 ## Blog
