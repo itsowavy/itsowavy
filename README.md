@@ -5,7 +5,7 @@
 <br></br>
 
 ## Blog
-<a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-purple?style=for-the-badge"/></a> &nbsp;
+<a href="https://itsowavy.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/-ITSOWAVY-9065b0?style=for-the-badge"/></a> &nbsp;
 <br></br>
 
 ## Email
