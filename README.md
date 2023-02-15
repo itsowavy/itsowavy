@@ -1,4 +1,4 @@
-# Seong Seunghun
+# 성승훈 Seong Seunghun
 
 ## 이력서
 <a href="https://itsowavy.oopy.io/resume" target="_blank"><img src="https://img.shields.io/badge/-resume-292929?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp;
